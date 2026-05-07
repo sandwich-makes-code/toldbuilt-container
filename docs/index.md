@@ -42,7 +42,7 @@ Or if you type n, this will happen:
 
 Exiting...
 
-tab exits
+*tab exits*
 
 Now, here is how to add files and run the server:
 
