@@ -7,9 +7,9 @@ O. M. G. This project took forever and works! So here is the operating manual:
 Make sure you have Python installed on your PC, if not, install from 'https://www.python.org/downloads/windows/' If yes, then skip this step as it may be unneccesary.
 Now double-click server_generator.py, or right-click two times on server_generator.py and press Open with, then press Python 'your-version number' It'll launch, you will appear on this screen:
 
----|Toldbuilt Container|---
+---|Toldbuilt Server|---
 
-Generate a server container with this application.
+Generate a server with this application.
 
 Running servers are found in the other application in one of the servers called main.py at ' C:\Users\nikra\OneDrive\Documents\ToldbuiltContainer \servers\My New Server-????\main.py', but you can also generate a server 
 
